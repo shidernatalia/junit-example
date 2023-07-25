@@ -1,0 +1,3 @@
+technology,item1,item2,item3,itemToCheck,expectedLeftItems
+Backbone.js,clean the house,clean car,buy ketchup,buy ketchup,2
+AngularJS,clean the house,clean car,buy ketchup,buy ketchup,2
